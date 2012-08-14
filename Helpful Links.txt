@@ -2,4 +2,8 @@ Legend of Aleath Homepage: http://www.legendofaleath.com
 Legend of Aleath forum: http://forum.legendofaleath.com
 Legend of Aleath Tekkit Server Page: http://www.legendofaleath.com/tekkit-server
 
+Legend of Aleath Main MC Server IP: minecraft.legendofaleath.com:25566
+Legend of Aleath Tekkit Server IP: tekkit.legendofaleath.com
+Legend of Aleath TeamSpeak 3 Server IP: ts.legendofaleath.com
+
 Legend of Aleath Owner Email: mailto:owner@legendofaleath.com <- Open Link in Web Browser
